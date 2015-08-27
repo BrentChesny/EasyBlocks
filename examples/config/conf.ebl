@@ -1,0 +1,9 @@
+<!DOCTYPE EasyBlocksProject>
+<LevelHandler default="invisible">
+	<VisibleBlocks>
+		<Block id="Boolean_BoolAssignment" />
+	</VisibleBlocks>
+	<InvisibleBlocks>
+		<Block id="Sprite_NextImageBlock" />
+	</InvisibleBlocks>
+</LevelHandler>

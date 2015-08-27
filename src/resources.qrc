@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/sprites">
+        <file>sprites/apple.png</file>
+        <file>sprites/lemon.png</file>
+        <file>sprites/bee.png</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>img/document-new.png</file>
+        <file>img/document-open.png</file>
+        <file>img/document-save.png</file>
+        <file>img/run.png</file>
+        <file>img/stop.png</file>
+        <file>img/zoomin.png</file>
+        <file>img/zoomout.png</file>
+        <file>img/document-saveas.png</file>
+        <file>img/pause.png</file>
+        <file>img/settings.png</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file>easyblocks_nl.qm</file>
+    </qresource>
+</RCC>

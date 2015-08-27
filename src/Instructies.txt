@@ -1,0 +1,18 @@
+Om het project eenvoudig te compileren is een .pro file voorzien. Deze file kan geopend worden in Qt Creator om op een eenvoudige wijze het project te builden en uitvoeren.
+
+Tijdens het ontwerpen werden de volgende versies en compilers gebruikt:
+
+Linux:
+	Qt: 5.2.1
+	Compiler: GCC
+
+Mac:
+	Qt: 5.2.1
+	compiler: Clang
+
+Windows:
+	Qt: 5.2.1
+	compiler: MSVC2012
+
+
+Merk op dat voor het uitvoeren van de applicatie buiten Qt Creator, afhankelijk van het besturingssysteem, De nodige libraries toegevoegd moeten worden.
